@@ -7,8 +7,11 @@
 At CodeWithMashood, we dive deep into coding with tutorials, tips, and insights designed to make you a proficient developer. Explore topics like:
 
 •	Web Development: HTML, CSS, JavaScript, and frameworks like React, Angular, and Vue.js.
+
 •	App Development: Swift, Kotlin, Flutter, and React Native.
+
 •	Programming Languages: Python, Java, C++, and more.
+
 •	Project-Based Learning: Real-world projects to solidify your knowledge.
 
 Join & Subscribe to the CodeWithMashood community and start crafting your coding future with us!
