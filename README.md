@@ -38,6 +38,6 @@ https://wa.me/+923111214350
 
 https://youtube.com/@CodeWithMashood
 
-https://instagram.com/@CodeWithMashood
+https://instagram.com/codewithmashood
 
 https://github.com/Mashoodbaig7
