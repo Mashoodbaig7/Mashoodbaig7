@@ -32,3 +32,9 @@ For Contact
 mashoodbaig567@gmail.com
 
 https://wa.me/+923111214350
+
+https://youtube.com/@CodeWithMashood
+
+https://instagram.com/@CodeWithMashood
+
+https://github.com/Mashoodbaig7
