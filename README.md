@@ -31,7 +31,7 @@ My Skills
 📫 How to reach me mashoodbaig567@gmail.com
 For Contact  
 ------------------------
-  [ ![image](https://github.com/user-attachments/assets/cff60287-86d1-4c9a-bb01-05dea39792ba)](https://www.youtube.com/channel/@CodeWithMashood)
+  [ ![image](https://github.com/user-attachments/assets/cff60287-86d1-4c9a-bb01-05dea39792ba)](https://www.youtube.com/@CodeWithMashood)
 
 
 mashoodbaig567@gmail.com
