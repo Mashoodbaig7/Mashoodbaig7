@@ -27,9 +27,8 @@ My Skills
 ----------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/56bfa5fc-f808-491e-95ef-6a5cfd78de00)
 
-![image](https://github.com/user-attachments/assets/e501a61e-607f-4e05-b173-492074bf201e)
-
-
+ 
+📫 How to reach me mashoodbaig567@gmail.com
 For Contact  
 ------------------------
 mashoodbaig567@gmail.com
@@ -41,3 +40,9 @@ https://youtube.com/@CodeWithMashood
 https://instagram.com/codewithmashood
 
 https://github.com/Mashoodbaig7
+
+
+![Mashood baig GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mashoodbaig7&show_icons=true&theme=default)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mashoodbaig7&layout=compact&theme=radical)
