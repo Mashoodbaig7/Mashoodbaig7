@@ -1,4 +1,5 @@
-  ![image](https://github.com/user-attachments/assets/4b0c9129-d8dc-46f3-9d75-f9ddb24c97bb)
+  ![Black Yellow Modern Programmer LinkedIn Banner](https://github.com/user-attachments/assets/9e2d5ca2-e35b-473b-bbe9-78e5611c8531)
+
 
 Hi i am 👋 Mashood Baig
 ========================
@@ -32,18 +33,6 @@ My Skills
 📫 How to reach me mashoodbaig567@gmail.com
 For Contact  
 ------------------------
-  [ ![image](https://github.com/user-attachments/assets/cff60287-86d1-4c9a-bb01-05dea39792ba)](https://www.youtube.com/@CodeWithMashood)
-
-
-mashoodbaig567@gmail.com
-
-https://wa.me/+923111214350
-
-https://youtube.com/@CodeWithMashood
-
-https://instagram.com/codewithmashood
-
-https://github.com/Mashoodbaig7
 
 
 ![Mashood baig GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mashoodbaig7&show_icons=true&theme=default)
